@@ -1,0 +1,20 @@
+aliyun:
+ sms:
+   access-keyid: 'LTAIQQATb0tR2jHU'
+   access-secret: '6ylFwtq2e29VinLX2kBW1C6mV7O9Dd'
+ audiotrans:
+   accessKeyId: 'LTAIBM6AyJ5pqiiT'
+   accessKeySecret: 'GDidqQrLOo0WHJqkjZtdeiZQ4TJ5KE'
+   appKey: 'UTTX34XKjk1QN1NM'
+   appKey_8: '2akkQKeDylsUus5p'
+   appKeyEn: 'CUDEtF4eUTFfysPC'
+ oss:
+   endpoint: 'http://oss-cn-zhangjiakou-internal.aliyuncs.com'
+   accessKeyId: 'LTAIHscb1GtDKpih'
+   accessKeySecret: 'FTD5OogHGDgyP07LnqxOae7mYAeVcq'
+   audioDommain: 'http://audio.t.bluepulse.cn'
+   audioDommainInternal: 'http://bluepulse-audio.oss-cn-zhangjiakou-internal.aliyuncs.com'
+   docsDommain: 'http://docs.t.bluepulse.cn'
+   bucket:
+     audio: 'bluepulse-audio'
+     docs: 'bluepulse-docs'
